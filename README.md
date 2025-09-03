@@ -2,7 +2,7 @@
 
 ## About Me
 
-Senior AI/ML Engineer with extensive expertise in GPU acceleration (CUDA) specializing in **computer vision**, **real-time AI systems**, and **scalable deep learning applications**. I bridge state-of-the-art research with production-ready systems, leading teams to build sub-second pose tracking, multi-modal optimization, and action recognition pipelines.
+Senior AI/ML Engineer with extensive expertise in GPU acceleration (CUDA) specializing in **computer vision**, **real-time AI systems**, and **scalable deep learning applications**. I bridge state-of-the-art research with production-ready systems, leading teams to build state-of-the-art, GPU-accelerated ML systems.
 
 ## Tech Stack
 
