@@ -14,7 +14,6 @@ Senior AI/ML Engineer with extensive expertise in GPU acceleration (CUDA) specia
 
 ## Recent Projects (2025)
 
-🔐 **[Building cuZK](https://github.com/davencyw/cuZK)** - GPU-Accelerated Zero-Knowledge Cryptography  
 📚 **[Cutting Through the Noise](https://davencyw.github.io/davencyw.net/projects/paperviewer.html)** - AI Paper Curation with LLMs and RLHF  
 
 ---
