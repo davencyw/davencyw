@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm a Senior AI/ML/GPU Engineer
+# Hi there, I'm a Senior AI/ML/GPU Engineer
 
 ## About Me
 
@@ -12,7 +12,7 @@ Senior AI/ML Engineer with extensive expertise in GPU acceleration (CUDA) specia
 **Data Science:** numpy, pandas, matplotlib, scipy <br>
 **MLOps:** Union/Flyte, MLflow  
 
-## Recent Projects (2025)
+## Recent Projects
 
 📚 **[Cutting Through the Noise](https://davencyw.github.io/davencyw.net/projects/paperviewer.html)** - AI Paper Curation with LLMs and RLHF  
 
