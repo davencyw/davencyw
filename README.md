@@ -14,6 +14,7 @@ Senior AI/ML Engineer with extensive expertise in GPU acceleration (CUDA) specia
 
 ## Recent Projects
 ⏲ **[Uncovering and Resolving Bottlenecks in SGLang](https://www.davencyw.net/projects/sglang-bottlenecks.html)** - A deep dive into SGLang, a state of the art LLM inference engine
+
 📚 **[Cutting Through the Noise](https://davencyw.github.io/davencyw.net/projects/paperviewer.html)** - AI Paper Curation with LLMs and RLHF  
 
 ---
