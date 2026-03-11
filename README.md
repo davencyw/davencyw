@@ -7,7 +7,7 @@ Senior AI/ML Engineer with extensive expertise in GPU acceleration (CUDA) specia
 ## Tech Stack
 
 **Languages:** C++, CUDA, Rust, Python <br>
-**ML/AI:** PyTorch, OpenCV, CUDA, CuDNN <br>
+**ML/AI:** PyTorch, OpenCV, CUDA, CuDNN, cuBLAS, CUTLASS <br>
 **High-Performance:** OpenMP, BLAS, Eigen, Ceres, Boost, TBB <br>
 **Data Science:** numpy, pandas, matplotlib, scipy <br>
 **MLOps:** Union/Flyte, MLflow  
