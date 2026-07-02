@@ -15,7 +15,3 @@ Senior AI/ML Engineer with extensive expertise in GPU acceleration (CUDA) specia
 ## Projects
 
 📚 **[Cutting Through the Noise](https://davencyw.github.io/davencyw.net/projects/paperviewer.html)** - AI Paper Curation with LLMs and RLHF  
-
----
-
-*Passionate about transforming cutting-edge research into high-quality products that deliver real-world impact.*
